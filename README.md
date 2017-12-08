@@ -1,2 +1,2 @@
 # python_car_game
-car game developed in Python with Pygame
+car game developed in Python3 with Pygame
