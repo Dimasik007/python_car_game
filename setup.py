@@ -1,3 +1,5 @@
+# this could be used to create an executable for the game using cx_Freeze
+
 import sys
 import cx_Freeze
 
